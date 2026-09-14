@@ -11,7 +11,7 @@ void main()
 
 
 {
-    
+    int z = 1000;
     int x = 100;
     int y = 800;
 	int total = x + y;
