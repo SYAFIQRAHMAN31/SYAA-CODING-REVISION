@@ -18,6 +18,7 @@ void main()
 	int total = x + y;
 
 	cout << "Total is: " << total << endl;
+    cout << "AKU YANG DULU BUKANLAN YANG SEKARANG" << endl;
 
 }
 
