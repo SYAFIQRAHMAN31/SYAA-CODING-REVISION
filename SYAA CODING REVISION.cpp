@@ -11,6 +11,8 @@ void main()
 
 
 {
+    int syaa = 2191897;
+
     int z = 1000;
     int x = 100;
     int y = 800;
